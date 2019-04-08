@@ -10,5 +10,5 @@ Given the following data
 The prediction model after using gradient descent
 
 <p align="center">
-  <img src="output.png">
+  <img src="Output.png">
 </p>
